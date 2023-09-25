@@ -1,3 +1,4 @@
+![mata uang drawio](https://github.com/Azrieladiputra/readme.md/assets/144753236/69a07391-32bc-411f-a69a-6ca9554bba1c)
 Program :::
 
 ## Konversi mata uang Rupiah ke USD dan sebaliknya
